@@ -1,6 +1,7 @@
 # LNK-Local-Network-Keylogger-
 The "Local Network Keylogger" is a Python project designed to silently log keystrokes from a target system within the local network. It operates by capturing keypress events .The project also includes a minimalistic HTTP server implemented using the http.server module, allowing authorized users to remotely access the logged keystrokes.
 
+NOTE - Kindly use the rar file for downloading, since its a Keylogger, it might not download properly.
 
 To run the provided Python code in various operating systems, including Windows, macOS, and Linux, you would typically follow these general steps:
 
